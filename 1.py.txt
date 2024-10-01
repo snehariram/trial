@@ -1,6 +1,6 @@
 
 print("Hello World")
-print("Hi, This is a change")
+print("Hi, This is a change!")
 
 picture = [
     [0, 0, 0, 1, 0, 0, 0],
